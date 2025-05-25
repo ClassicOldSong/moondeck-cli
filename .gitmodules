@@ -1,0 +1,3 @@
+[submodule "moondeck"]
+	path = moondeck
+	url = https://github.com/FrogTheFrog/moondeck

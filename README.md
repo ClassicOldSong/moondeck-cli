@@ -2,6 +2,9 @@
 
 A command-line interface for [MoonDeck](https://github.com/FrogTheFrog/moondeck) that allows you to manage and control game streaming hosts from the terminal. This CLI provides functionality to scan for hosts, pair with them, launch games, and manage streaming sessions without needing the Steam Deck UI.
 
+> [!Warning]
+> Archived as [MoonDeck implements CLI](https://github.com/FrogTheFrog/moondeck/pull/110)
+
 ## Features
 
 - 🔍 **Host Discovery**: Automatically scan for available Apollo/Sunshine hosts on your network
